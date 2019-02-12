@@ -1,0 +1,19 @@
+$fuente1: Arial, Helvetica, sans-serif;
+$fuente2: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fuente3: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+$color_1: #356618;
+$color_2: #66a143;
+$color_3: #f0f2c9;
+$color_4: #1b330c;
+
+body {
+	background: url(../images/bg-body.jpg) repeat;
+	color: $color_1;
+	font-family: $fuente1;
+	font-size: 14px;
+	margin: 0;
+	min-width: 940px;
+	padding: 0;
+}
+
+
